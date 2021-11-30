@@ -1,0 +1,61 @@
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=realrajapaksha&color=green)
+
+I am Induwara Rajapaksha. From Matara, Sri Lanka🇱🇰.  Undergraduate Coventry University.
+
+Full Stack Mobile Developer with SWIFT | Kotlin | Java | React-Native
+
+
+
+## Business Profile
+- Founder at CodeFlowLk
+- Co-Founder at Green Cyber Solutions
+- Co-Founder at Arduino Demonstration
+- Creative Writer & App Developer Android වැඩකාරයෝ
+
+
+## Studies
+- Undergraduate Coventry University
+- NIBM Student
+- Rahula Collage Matara
+
+
+## Interesting
+- Windows & Android Troubleshooter 
+- Online Tech Helper
+- Remote Bug and Error Fixer
+
+
+## Hobbies
+- App Make for Google Play
+- Written Articles
+- Video Editing
+- UI Design
+- Digital Marketing
+- Contributing Google Map
+
+## Developer Profiles
+![4] : https://developers.google.com/profile/u/realrajapaksha  
+![5] : https://stackoverflow.com/users/9519005/realrajapaksha  
+![6] : https://gitlab.com/realrajapaksha  
+
+![7] : https://www.facebook.com/CodeFlowLk  
+![8] : https://www.facebook.com/demo.arduino  
+
+
+## Social
+![0] : https://twitter.com/realrajapaksha  
+![1] : https://www.facebook.com/realrajapaksha  
+![2] : https://www.linkedin.com/in/realrajapaksha  
+![3] : https://androidwedakarayo.com/author/realrajapaksha  
+
+
+[0]: https://img.shields.io/badge/-twitter-inactive
+[1]: https://img.shields.io/badge/-facebook-inactive
+[2]: https://img.shields.io/badge/-linkedIn-inactive
+[3]: https://img.shields.io/badge/-androidwedakarayo-inactive
+[4]: https://img.shields.io/badge/-googleprofile-inactive
+[5]: https://img.shields.io/badge/-stackoverflow-inactive
+[6]: https://img.shields.io/badge/-gitlab-inactive
+[7]: https://img.shields.io/badge/-CodeFlowLk-inactive
+[8]: https://img.shields.io/badge/-ArduinoDemonstration-inactive
