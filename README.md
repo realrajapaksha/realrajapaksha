@@ -42,12 +42,20 @@ Full Stack Mobile Developer with SWIFT | Kotlin | Java | React-Native
 ![7] : https://www.facebook.com/CodeFlowLk  
 ![8] : https://www.facebook.com/demo.arduino  
 
+![9] : https://play.google.com/store/apps/dev?id=8326706512120727079  
+![10] : https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ACodeFlowLk&search-type=ss
+
 
 ## Social
 ![0] : https://twitter.com/realrajapaksha  
 ![1] : https://www.facebook.com/realrajapaksha  
 ![2] : https://www.linkedin.com/in/realrajapaksha  
 ![3] : https://androidwedakarayo.com/author/realrajapaksha  
+
+
+## Support Me
+https://www.buymeacoffee.com/realrajapaksha  
+https://www.patreon.com/realrajapaksha 
 
 
 [0]: https://img.shields.io/badge/-twitter-inactive
@@ -59,3 +67,5 @@ Full Stack Mobile Developer with SWIFT | Kotlin | Java | React-Native
 [6]: https://img.shields.io/badge/-gitlab-inactive
 [7]: https://img.shields.io/badge/-CodeFlowLk-inactive
 [8]: https://img.shields.io/badge/-ArduinoDemonstration-inactive
+[9]: https://img.shields.io/badge/-GooglePlay-inactive
+[10]: https://img.shields.io/badge/-AmazonStore-inactive
