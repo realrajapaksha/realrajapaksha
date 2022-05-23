@@ -3,7 +3,7 @@
 
 I am Induwara Rajapaksha. From Matara, Sri Lanka🇱🇰.  Undergraduate Coventry University.
 
-Full Stack Mobile Developer with SWIFT | Kotlin | Java | React-Native
+Full Stack Mobile Developer with SWIFT | FLUTTER | Java | React-Native
 
 
 
