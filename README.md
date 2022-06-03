@@ -1,10 +1,10 @@
-### Hi there 👋
+### HI THERE WELCOME TO MY PROFILE 👋
 ![](https://komarev.com/ghpvc/?username=realrajapaksha&color=green)
 
-I am Induwara Rajapaksha. From Matara, Sri Lanka🇱🇰.  Undergraduate Coventry University.
-
-Full Stack Mobile Developer with SWIFT | FLUTTER | Java | React-Native
-
+```diff
++ Flutter & Core Android Developer  
+```
+I am Induwara Rajapaksha. From Matara, Sri Lanka 🇱🇰.  Undergraduate at Coventry University. I am a Self Learning Software Developer, Computer Technical Supporter and Troubleshooter Since Six Years and Mobile Apps Developer. Computers and the Internet is My Abode. 
 
 
 ## Business Profile
