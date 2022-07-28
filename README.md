@@ -40,7 +40,8 @@ I am Induwara Rajapaksha. From Matara, Sri Lanka 🇱🇰.  Undergraduate at Cov
 - [Convert Your Website to Android App](https://www.fiverr.com/share/BWw0V7)  
 - [Speedup Your Computer](https://www.fiverr.com/share/W0ogwL)  
 - [Free Host React, Flutter and Javascript Website](https://www.fiverr.com/share/repL70)  
-- [Sell My Android Apps](https://www.fiverr.com/realrajapaksha/sell-result-management-android-app)
+- [Sell My Android Apps](https://www.fiverr.com/realrajapaksha/sell-result-management-android-app)  
+- [Create Your Own Static Web Site](https://www.fiverr.com/share/KXZ3Lb)  
 
 
 ## Developer Profiles
