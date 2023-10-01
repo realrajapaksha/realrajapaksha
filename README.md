@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=realrajapaksha&color=green)
 
 ```diff
-+ Flutter & Core Android Developer  
++ Flutter & Native Android Developer  
 ```
 I am Induwara Rajapaksha. From Matara, Sri Lanka 🇱🇰.  Undergraduate at Coventry University. I am a Self Learning Software Developer, Computer Technical Supporter and Troubleshooter Since Six Years and Mobile Apps Developer. Computers and the Internet is My Abode. 
 
@@ -37,16 +37,6 @@ I am Induwara Rajapaksha. From Matara, Sri Lanka 🇱🇰.  Undergraduate at Cov
 
 ## My Tech Articles
 - [https://greencybersolutions.com/flutter/index.html](https://greencybersolutions.com/flutter/index.html)  
-
-
-## Hire Me on Fiverr
-- [Setup Android Environment with React Native, Android Studio, Flutter](https://www.fiverr.com/share/9jN85K)  
-- [Fix Errors in Android Studio and Code](https://www.fiverr.com/share/wqQgwv)  
-- [Speedup Your Computer](https://www.fiverr.com/share/W0ogwL)  
-- [Free Host React, Flutter and Javascript Website](https://www.fiverr.com/share/repL70)  
-- [Sell My Android Apps](https://www.fiverr.com/realrajapaksha/sell-result-management-android-app)  
-- [Create Your Own Static Web Site](https://www.fiverr.com/share/KXZ3Lb)  
-- [Setup Firebase on Your Project](https://www.fiverr.com/share/xezbQX)  
 
 
 ## Developer Profiles
